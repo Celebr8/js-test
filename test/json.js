@@ -57,6 +57,6 @@ describe('averageAge', () => {
   });
 
   it('should throw if the datas are malformed', () => {
-    expect(averageAge({...data, ...wrongData})).to.throw;
+    expect(averageAge({...data, ...wrongData})).to.throw(Error);
   });
 });
