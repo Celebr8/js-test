@@ -16,4 +16,6 @@ You can also test your code using
 
 Once it is done, send us a zip or a tar with your work to shane@whichost.com.
 
+Alternatively, you can upload your work to your own Google Drive, make it public and send the link to shane@whichost.com.  
+
 Good luck
