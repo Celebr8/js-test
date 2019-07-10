@@ -14,6 +14,6 @@ You can also test your code using
 
     npm test
 
-Once it is done, send us a zip or a tar with your work to loic@whichost.com and shane@whichost.com.
+Once it is done, send us a zip or a tar with your work to shane@whichost.com.
 
 Good luck
